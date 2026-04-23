@@ -1,0 +1,1 @@
+This Spotify Music Player project is built using HTML, CSS, and JavaScript. It provides an intuitive and seamless user experience for listening to music, with features like play/pause controls, song navigation, and a responsive UI.
